@@ -1,0 +1,31 @@
+body{
+
+    background: url(https://www.google.com/search?q=background+images+for+css&tbm=isch&ved=2ahUKEwj-2Lj13M2DAxWcUGwGHTT0Cb0Q2-cCegQIABAA&oq=back+images+for+css&gs_lcp=CgNpbWcQARgAMgYIABAHEB4yCAgAEAUQBxAeMggIABAFEAcQHjIICAAQCBAHEB4yCAgAEAgQBxAeOg0IABCABBCKBRBDELEDOgoIABCABBCKBRBDOgsIABCABBCxAxCDAToICAAQgAQQsQM6BQgAEIAEOgQIABAeOgYIABAFEB46BggAEAgQHlCIAVjRgAFghZYBaABwAHgAgAHaAogByBuSAQgwLjE4LjQuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=kuGbZf5HnKGx4w-06KfoCw&bih=695&biw=1536&rlz=1C1CHBF_enIN987IN988#imgrc=74alba7D8hQXPM);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+
+    color: red;
+    text-align: center;
+}
+
+td, table{
+
+    margin: auto;
+    border: 2px solid red;
+    color: red;
+    background: yellow;
+    font-size: 25px;
+}
+
+thead{
+
+    background: green;
+    color: white;
+}
+
+p{
+
+    margin: auto;
+}
